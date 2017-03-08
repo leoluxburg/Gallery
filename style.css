@@ -1,0 +1,89 @@
+#main{
+  background-image: url(https://unsplash.it/1000/600/?random);:
+  background-size:cover;
+  background-size: 100%;
+  padding: 40px 0;
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+}
+
+
+#main p{
+  color: white;
+  font-size: 20px;
+  font-weight: lighter;
+  opacity: 0.8;
+}/* Here goes your CSS */
+
+
+.round{
+  border-radius: 50%;
+  border: 50;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  /*padding: 50px;*/
+  font-family: Montserrat;
+}
+
+a {
+  text-decoration: none;
+}
+
+p { 
+  color: #000000;
+}
+
+div {
+  display: block;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+.card{
+  background-color: white;
+  font-weight: 20;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+
+.inline{
+  padding-left: ;
+}
+
+.inline li{
+  display: inline-block;
+  padding: 0px 20px;
+}
+.round{
+  border-radius: 50%;
+}
+
+
+#footer{
+  background: rgba(85, 85, 85, 0.2);;
+  font-size: 20px;
+  padding: 10px;
+  text-align: left;
+}
+
+#footer a {
+  color: white;
+  font-size: 20px;
+  opacity: 0.7;
+}
+
+#footer a:hover {
+  color:white;
+}
+
+
+
+
